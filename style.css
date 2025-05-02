@@ -1,8 +1,8 @@
 /* style.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    background-color: #f2f2f2;
+    background-color: #ffd7f2;
     margin: 0;
     padding: 20px;
   }
@@ -44,5 +44,9 @@ body {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+  }
+
+  title {
+    font-size: 30 px;
   }
   
